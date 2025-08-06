@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ansharah</h1>
 
-<!--
-**Ansharah-Basir/Ansharah-Basir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  📍 Cyber Security Undergraduate | DHA Suffa University  
+  🎓 ACCP-AI Graduate | Aptech Computer Education  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 About Me
+
+I’m an undergraduate student pursuing a Bachelor’s degree in **Cyber Security** at **DHA Suffa University**. I’ve also completed the **ACCP-AI program** from **Aptech**, where I gained hands-on experience in programming, AI fundamentals, and software development.
+
+I'm passionate about **ethical hacking**, **network security**, and **emerging technologies** in the cybersecurity landscape. My goal is to contribute to secure and responsible tech development.
+
+---
+
